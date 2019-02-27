@@ -2,7 +2,9 @@
 
 ## Eryka Shakhalevich
 
-### +375(29)724-69-54
+### English level: Intermediate (B1)
+
+#### +375(29)724-69-54
 
 ##### e-mail: eryka.sh@gmail.com
 
@@ -32,3 +34,31 @@ Adobe Illustrator | Advanced
 Adobe InDesign | Medium
 Adobe Photoshop | Advanced
 Corel Draw | Advanced
+
+## Education
+
+Name of Institution :  BIP – Institute of Law.
+
+Major: International law faculty 
+
+Degree Received: International lawyer proficient of foreign languages (English, French)
+
+2013 year graduation.
+
+### Additional Professional Education, Certificates
+
+* Software Testing Engineer program in Hi-Tech Park Educational Center
+Software Testing Engineer training in ITransition Software Development Company
+
+* codeschool.com - JavaScript and JQuery courses
+* codecademy.com - JavaScript, ReactJS, HTML, CSS, Git courses
+* theodinproject.com - git basics, web development, JavaScript
+* codecombat.com - education with fun
+
+## Experience
+
+During my self-education I’ve made a lot of tiny projects. Here some of them, which I have in GitHub to show.
+
+1. [The Hunter landing](https://cdn.rawgit.com/EriKuroi/Hunters-Landing/22a67d65/index.html) [(GitHub)](https://github.com/EriKuroi/Hunters-Landing.git)
+
+1. [Etch-a-sketch](https://cdn.rawgit.com/EriKuroi/Etch-a-Sketch/9d3a7f25/index.html) [(GitHub)](https://github.com/EriKuroi/Etch-a-Sketch)
